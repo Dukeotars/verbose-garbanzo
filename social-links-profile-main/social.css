@@ -8,11 +8,13 @@
     src: url(./assets/fonts/Inter-VariableFont_slnt\,wght.ttf) format('truetype'); 
 }
 .container{
-    font-size:25px;
-    width:900px;
+    font-size:2rem;
+    width:90%;
     height:auto;
-    margin:50px auto;
-    padding:100px;
+    max-width:600px;
+    max-height:auto;
+    margin:2rem auto;
+    padding:2rem;
     box-sizing: border-box;
     background-color:rgba(0, 0, 0, 0.925);
     border-radius: 30px;
